@@ -1,0 +1,6 @@
+(assign,5,,x)
+(assign,3,,y)
+(add,x,y,t1)
+(assign,t1,,a)
+(add,x,y,t2)
+(assign,t2,,b)

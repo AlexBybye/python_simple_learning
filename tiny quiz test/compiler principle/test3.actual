@@ -1,0 +1,8 @@
+(assign,5,,x)
+(assign,3,,y)
+(assign,7,,z)
+(add,5,3,t1)
+(assign,t1,,a)
+(sub,3,7,t2)
+(mul,t1,t2,t3)
+(assign,t3,,b)
